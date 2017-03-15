@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{6374BF63-D647-38E1-9F09-634EAE2B65E7}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>opencv_cudev_object</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">opencv_cudev_object.dir\Debug\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">opencv_cudev_object.dir\Debug\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">opencv_cudev_object</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.lib</TargetExt>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">opencv_cudev_object.dir\Release\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">opencv_cudev_object.dir\Release\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">opencv_cudev_object</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.lib</TargetExt>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalOptions> /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>E:\opencv\opencv\sources\3rdparty\ippicv\unpack\ippicv_win\include;E:\opencv\VS opencv3.0 project_vs2015;E:\opencv\opencv\sources\modules\cudev\include;E:\opencv\opencv\sources\modules\cudev\src;E:\opencv\VS opencv3.0 project_vs2015\modules\cudev;E:\opencv\opencv\sources\modules\hal\include;E:\opencv\opencv\sources\modules\core\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Debug/</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4324;4189;4505</DisableSpecificWarnings>
+      <ExceptionHandling>Async</ExceptionHandling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <ProcessorNumber>4</ProcessorNumber>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;_DEBUG;CVAPI_EXPORTS;_VARIADIC_MAX=10;__OPENCV_BUILD=1;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;_DEBUG;CVAPI_EXPORTS;_VARIADIC_MAX=10;__OPENCV_BUILD=1;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\opencv\opencv\sources\3rdparty\ippicv\unpack\ippicv_win\include;E:\opencv\VS opencv3.0 project_vs2015;E:\opencv\opencv\sources\modules\cudev\include;E:\opencv\opencv\sources\modules\cudev\src;E:\opencv\VS opencv3.0 project_vs2015\modules\cudev;E:\opencv\opencv\sources\modules\hal\include;E:\opencv\opencv\sources\modules\core\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\opencv\opencv\sources\3rdparty\ippicv\unpack\ippicv_win\include;E:\opencv\VS opencv3.0 project_vs2015;E:\opencv\opencv\sources\modules\cudev\include;E:\opencv\opencv\sources\modules\cudev\src;E:\opencv\VS opencv3.0 project_vs2015\modules\cudev;E:\opencv\opencv\sources\modules\hal\include;E:\opencv\opencv\sources\modules\core\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions> /machine:x64 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalOptions> /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>E:\opencv\opencv\sources\3rdparty\ippicv\unpack\ippicv_win\include;E:\opencv\VS opencv3.0 project_vs2015;E:\opencv\opencv\sources\modules\cudev\include;E:\opencv\opencv\sources\modules\cudev\src;E:\opencv\VS opencv3.0 project_vs2015\modules\cudev;E:\opencv\opencv\sources\modules\hal\include;E:\opencv\opencv\sources\modules\core\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Release/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4251;4324;4189;4505</DisableSpecificWarnings>
+      <ExceptionHandling>Async</ExceptionHandling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <ProcessorNumber>4</ProcessorNumber>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;NDEBUG;CVAPI_EXPORTS;_VARIADIC_MAX=10;__OPENCV_BUILD=1;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;NDEBUG;CVAPI_EXPORTS;_VARIADIC_MAX=10;__OPENCV_BUILD=1;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\opencv\opencv\sources\3rdparty\ippicv\unpack\ippicv_win\include;E:\opencv\VS opencv3.0 project_vs2015;E:\opencv\opencv\sources\modules\cudev\include;E:\opencv\opencv\sources\modules\cudev\src;E:\opencv\VS opencv3.0 project_vs2015\modules\cudev;E:\opencv\opencv\sources\modules\hal\include;E:\opencv\opencv\sources\modules\core\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\opencv\opencv\sources\3rdparty\ippicv\unpack\ippicv_win\include;E:\opencv\VS opencv3.0 project_vs2015;E:\opencv\opencv\sources\modules\cudev\include;E:\opencv\opencv\sources\modules\cudev\src;E:\opencv\VS opencv3.0 project_vs2015\modules\cudev;E:\opencv\opencv\sources\modules\hal\include;E:\opencv\opencv\sources\modules\core\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions> /machine:x64 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudev\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule E:/opencv/opencv/sources/modules/cudev/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+E:\cmake\cmake-3.6.2-win64-x64\bin\cmake.exe -HE:/opencv/opencv/sources "-BE:/opencv/VS opencv3.0 project_vs2015" --check-stamp-file "E:\opencv\VS opencv3.0 project_vs2015\modules\cudev\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">E:/opencv/opencv/sources/modules/cudev/CMakeLists.txt;E:\opencv\opencv\sources\modules\cudev\CMakeLists.txt;E:\opencv\opencv\sources\modules\cudev\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">E:\opencv\VS opencv3.0 project_vs2015\modules\cudev\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule E:/opencv/opencv/sources/modules/cudev/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+E:\cmake\cmake-3.6.2-win64-x64\bin\cmake.exe -HE:/opencv/opencv/sources "-BE:/opencv/VS opencv3.0 project_vs2015" --check-stamp-file "E:\opencv\VS opencv3.0 project_vs2015\modules\cudev\CMakeFiles\generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">E:/opencv/opencv/sources/modules/cudev/CMakeLists.txt;E:\opencv\opencv\sources\modules\cudev\CMakeLists.txt;E:\opencv\opencv\sources\modules\cudev\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">E:\opencv\VS opencv3.0 project_vs2015\modules\cudev\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\block\block.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\block\detail\reduce.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\block\detail\reduce_key_val.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\block\dynamic_smem.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\block\reduce.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\block\scan.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\block\vec_distance.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\common.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\expr\binary_func.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\expr\binary_op.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\expr\color.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\expr\deriv.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\expr\expr.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\expr\per_element_func.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\expr\reduction.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\expr\unary_func.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\expr\unary_op.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\expr\warping.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\functional\color_cvt.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\functional\detail\color_cvt.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\functional\functional.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\functional\tuple_adapter.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\copy.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\copy.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\histogram.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\integral.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\minmaxloc.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\pyr_down.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\pyr_up.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\reduce.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\reduce_to_column.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\reduce_to_row.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\split_merge.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\transform.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\detail\transpose.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\histogram.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\integral.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\pyramids.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\reduce.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\reduce_to_vec.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\split_merge.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\transform.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\grid\transpose.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\constant.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\deriv.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\detail\gpumat.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\extrapolation.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\glob.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\gpumat.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\interpolation.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\lut.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\mask.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\remap.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\resize.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\texture.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\traits.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\transform.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\warping.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\ptr2d\zip.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\util\atomic.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\util\detail\tuple.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\util\detail\type_traits.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\util\limits.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\util\saturate_cast.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\util\simd_functions.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\util\tuple.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\util\type_traits.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\util\vec_math.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\util\vec_traits.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\warp\detail\reduce.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\warp\detail\reduce_key_val.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\warp\reduce.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\warp\scan.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\warp\shuffle.hpp" />
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudev\include\opencv2\cudev\warp\warp.hpp" />
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\cvconfig.h" />
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\opencv2\opencv_modules.hpp" />
+    <ClCompile Include="E:\opencv\opencv\sources\modules\cudev\src\stub.cpp"  />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="E:/opencv/VS opencv3.0 project_vs2015/ZERO_CHECK.vcxproj">
+      <Project>3E4A34AE-861B-3EC7-B54D-844DAFAE1C5C</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\cudaarithm\src\arithm.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\cudaarithm\src\core.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\cudaarithm\src\element_operations.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\cudaarithm\src\reductions.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\opencv_cudaarithm_pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudaarithm\include\opencv2\cudaarithm.hpp">
+      <Filter>Include\opencv2</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudaarithm\src\precomp.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\cvconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\opencv2\opencv_modules.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\absdiff_mat.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\absdiff_scalar.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\add_mat.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\add_scalar.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\add_weighted.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\bitwise_mat.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\bitwise_scalar.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\cmp_mat.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\cmp_scalar.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\copy_make_border.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\countnonzero.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\div_mat.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\div_scalar.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\integral.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\lut.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\math.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\minmax.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\minmax_mat.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\minmaxloc.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\mul_mat.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\mul_scalar.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\mul_spectrums.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\norm.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\normalize.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\polar_cart.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\reduce.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\split_merge.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\sub_mat.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\sub_scalar.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\sum.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\threshold.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\src\cuda\transpose.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudaarithm\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_absdiff_mat.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_absdiff_scalar.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_add_mat.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_add_scalar.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_add_weighted.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_bitwise_mat.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_bitwise_scalar.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_cmp_mat.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_cmp_scalar.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_copy_make_border.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_countnonzero.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_div_mat.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_div_scalar.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_integral.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_lut.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_math.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_minmax.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_minmax_mat.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_minmaxloc.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_mul_mat.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_mul_scalar.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_mul_spectrums.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_norm.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_normalize.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_polar_cart.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_reduce.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_split_merge.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_sub_mat.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_sub_scalar.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_sum.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_threshold.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudaarithm\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_transpose.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Src\Cuda">
+      <UniqueIdentifier>{9C1675F1-DEAB-3D2E-97BB-6FDEE999241A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2">
+      <UniqueIdentifier>{0F449E7A-DC76-3FF4-A60C-EEA14CB3EEEB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AE339D88-664C-3106-B8E8-6BFEAEDE8AAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{823C3825-3487-3DA4-94F9-C4974128303A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{B514FEBA-8B76-3264-A986-FE6E978CE085}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{CACF765D-8258-325E-803C-19A45C39E41E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{3052C5E0-A433-3924-9502-42A00269BCB4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

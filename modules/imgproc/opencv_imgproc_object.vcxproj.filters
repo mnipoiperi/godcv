@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\accum.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\approx.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\blend.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\canny.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\clahe.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\color.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\colormap.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\connectedcomponents.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\contours.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\convhull.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\corner.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\cornersubpix.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\demosaicing.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\deriv.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\distransform.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\drawing.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\emd.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\featureselect.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\filter.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\floodfill.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\gabor.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\generalized_hough.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\geometry.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\grabcut.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\hershey_fonts.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\histogram.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\hough.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\imgwarp.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\intersection.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\linefit.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\lsd.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\matchcontours.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\min_enclosing_triangle.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\moments.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\morph.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\phasecorr.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\pyramids.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\rotcalipers.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\samplers.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\segmentation.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\shapedescr.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\smooth.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\subdivision2d.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\sumpixels.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\tables.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\templmatch.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\thresh.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\undistort.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\imgproc\src\utils.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\VS opencv3.0 project_vs2015\modules\imgproc\opencl_kernels_imgproc.cpp">
+      <Filter>Src\opencl\kernels\autogenerated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\VS opencv3.0 project_vs2015\modules\imgproc\opencv_imgproc_pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\imgproc\include\opencv2\imgproc.hpp">
+      <Filter>Include\opencv2</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\imgproc\include\opencv2\imgproc\imgproc.hpp">
+      <Filter>Include\opencv2\imgproc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\imgproc\include\opencv2\imgproc\imgproc_c.h">
+      <Filter>Include\opencv2\imgproc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\imgproc\include\opencv2\imgproc\types_c.h">
+      <Filter>Include\opencv2\imgproc</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\modules\imgproc\opencl_kernels_imgproc.hpp">
+      <Filter>Src\opencl\kernels\autogenerated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\imgproc\src\filterengine.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\imgproc\src\gcgraph.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\imgproc\src\precomp.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\imgproc\src\_geom.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\cvconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\opencv2\opencv_modules.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\imgproc\CMakeLists.txt" />
+    <CustomBuild Include="E:\opencv\VS opencv3.0 project_vs2015\CMakeFiles\b3efeba44214ed2507536066ae93004e\opencl_kernels_imgproc.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Src\opencl">
+      <UniqueIdentifier>{13D0ACF2-4A57-3668-BD24-FBC8A546B581}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\opencl\kernels">
+      <UniqueIdentifier>{77A1A22A-3399-3E18-8AE3-F27BC9FEB93E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\opencl\kernels\autogenerated">
+      <UniqueIdentifier>{ED61A352-4451-37AE-973B-D0826D29A14B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2">
+      <UniqueIdentifier>{0F449E7A-DC76-3FF4-A60C-EEA14CB3EEEB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2\imgproc">
+      <UniqueIdentifier>{47430141-BE59-3825-8205-50A6EB3FF6F0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AE339D88-664C-3106-B8E8-6BFEAEDE8AAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{823C3825-3487-3DA4-94F9-C4974128303A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5976315D-64BC-3562-9870-311D8571EEAC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{CACF765D-8258-325E-803C-19A45C39E41E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{3052C5E0-A433-3924-9502-42A00269BCB4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

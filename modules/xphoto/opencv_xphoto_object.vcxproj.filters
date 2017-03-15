@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\src\dct_image_denoising.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\src\inpainting.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\src\simple_color_balance.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\include\opencv2\xphoto.hpp">
+      <Filter>Include\opencv2</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\include\opencv2\xphoto\dct_image_denoising.hpp">
+      <Filter>Include\opencv2\xphoto</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\include\opencv2\xphoto\inpainting.hpp">
+      <Filter>Include\opencv2\xphoto</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\include\opencv2\xphoto\simple_color_balance.hpp">
+      <Filter>Include\opencv2\xphoto</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\src\advanced_types.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\src\annf.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\src\blending.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\src\gcgraph.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\src\norm2.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\src\photomontage.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\src\whs.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\cvconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\opencv2\opencv_modules.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\opencv\opencv_contrib-3.0.0\modules\xphoto\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include\opencv2">
+      <UniqueIdentifier>{0F449E7A-DC76-3FF4-A60C-EEA14CB3EEEB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2\xphoto">
+      <UniqueIdentifier>{1AA4D7E2-26FF-399F-97F8-29AC7B7DCFBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{823C3825-3487-3DA4-94F9-C4974128303A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{CACF765D-8258-325E-803C-19A45C39E41E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{3052C5E0-A433-3924-9502-42A00269BCB4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

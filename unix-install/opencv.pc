@@ -1,0 +1,14 @@
+# Package Information for pkg-config
+
+prefix=E:/opencv/VS opencv3.0 project_vs2015/install
+exec_prefix=${prefix}
+libdir=${exec_prefix}/x64/vc14/lib
+includedir_old=${prefix}/include/opencv
+includedir_new=${prefix}/include
+
+Name: OpenCV
+Description: Open Source Computer Vision Library
+Version: 3.0.0
+Libs: -L${exec_prefix}/x64/vc14/lib -lopencv_cudabgsegm300 -lopencv_cudaobjdetect300 -lopencv_cudastereo300 -lopencv_stitching300 -lopencv_cudafeatures2d300 -lopencv_superres300 -lopencv_cudacodec300 -lopencv_videostab300 -lopencv_cudaoptflow300 -lopencv_cudalegacy300 -lopencv_cudawarping300 -lopencv_adas300 -lopencv_bgsegm300 -lopencv_bioinspired300 -lopencv_ccalib300 -lopencv_datasets300 -lopencv_face300 -lopencv_latentsvm300 -lopencv_objdetect300 -lopencv_line_descriptor300 -lopencv_optflow300 -lopencv_reg300 -lopencv_rgbd300 -lopencv_saliency300 -lopencv_surface_matching300 -lopencv_text300 -lopencv_tracking300 -lopencv_xfeatures2d300 -lopencv_calib3d300 -lopencv_features2d300 -lopencv_shape300 -lopencv_video300 -lopencv_ml300 -lopencv_flann300 -lopencv_ximgproc300 -lopencv_xobjdetect300 -lopencv_xphoto300 -lopencv_highgui300 -lopencv_videoio300 -lopencv_photo300 -lopencv_imgcodecs300 -lopencv_cudaimgproc300 -lopencv_cudafilters300 -lopencv_imgproc300 -lopencv_cudaarithm300 -lopencv_core300 -lopencv_cudev300 -lopencv_hal300
+Libs.private: -lcomctl32 -lgdi32 -lole32 -lsetupapi -lws2_32 -lvfw32 -lcudart -lnppc -lnppi -lnpps -lcufft
+Cflags: -I${includedir_old} -I${includedir_new}

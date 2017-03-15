@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\opencv\opencv\sources\modules\cudafilters\src\filtering.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\opencv_cudafilters_pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudafilters\include\opencv2\cudafilters.hpp">
+      <Filter>Include\opencv2</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.hpp">
+      <Filter>Src\cuda</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.hpp">
+      <Filter>Src\cuda</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\opencv\sources\modules\cudafilters\src\precomp.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\cvconfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\opencv\VS opencv3.0 project_vs2015\opencv2\opencv_modules.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.16sc1.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.16sc3.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.16sc4.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.16uc1.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.16uc3.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.16uc4.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.32fc1.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.32fc3.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.32fc4.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.32sc1.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.32sc3.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.32sc4.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.8uc1.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.8uc3.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\column_filter.8uc4.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\filter2d.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.16sc1.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.16sc3.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.16sc4.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.16uc1.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.16uc3.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.16uc4.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.32fc1.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.32fc3.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.32fc4.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.32sc1.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.32sc3.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.32sc4.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.8uc1.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.8uc3.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\src\cuda\row_filter.8uc4.cu">
+      <Filter>Src\Cuda</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\opencv\opencv\sources\modules\cudafilters\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.16sc1.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.16sc3.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.16sc4.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.16uc1.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.16uc3.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.16uc4.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.32fc1.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.32fc3.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.32fc4.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.32sc1.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.32sc3.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.32sc4.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.8uc1.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.8uc3.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_column_filter.8uc4.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_filter2d.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.16sc1.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.16sc3.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.16sc4.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.16uc1.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.16uc3.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.16uc4.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.32fc1.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.32fc3.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.32fc4.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.32sc1.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.32sc3.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.32sc4.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.8uc1.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.8uc3.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+    <Object Include="E:\opencv\VS opencv3.0 project_vs2015\modules\cudafilters\CMakeFiles\cuda_compile.dir\src\cuda\$(Configuration)\cuda_compile_generated_row_filter.8uc4.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Src\cuda">
+      <UniqueIdentifier>{98532A54-180A-3588-B34A-413D6C832548}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src\Cuda">
+      <UniqueIdentifier>{9C1675F1-DEAB-3D2E-97BB-6FDEE999241A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2">
+      <UniqueIdentifier>{0F449E7A-DC76-3FF4-A60C-EEA14CB3EEEB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AE339D88-664C-3106-B8E8-6BFEAEDE8AAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{823C3825-3487-3DA4-94F9-C4974128303A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{B514FEBA-8B76-3264-A986-FE6E978CE085}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{CACF765D-8258-325E-803C-19A45C39E41E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include">
+      <UniqueIdentifier>{3052C5E0-A433-3924-9502-42A00269BCB4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

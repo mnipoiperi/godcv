@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+E:/opencv/opencv/sources/modules/cudastereo/CMakeLists.txt
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudastereo/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_disparity_bilateral_filter.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudastereo/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_stereobm.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudastereo/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_stereobp.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudastereo/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_stereocsbp.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudastereo/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_util.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake

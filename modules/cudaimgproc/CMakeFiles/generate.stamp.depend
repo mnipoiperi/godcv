@@ -1,0 +1,34 @@
+# CMake generation dependency list for this directory.
+E:/opencv/opencv/sources/modules/cudaimgproc/CMakeLists.txt
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_bilateral_filter.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_blend.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_build_point_list.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_canny.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_clahe.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_color.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_corners.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_debayer.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_generalized_hough.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_gftt.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_hist.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_hough_circles.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_hough_lines.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_hough_segments.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_match_template.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaimgproc/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_mean_shift.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake

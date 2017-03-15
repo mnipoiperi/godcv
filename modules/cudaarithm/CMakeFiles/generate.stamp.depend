@@ -1,0 +1,66 @@
+# CMake generation dependency list for this directory.
+E:/opencv/opencv/sources/modules/cudaarithm/CMakeLists.txt
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_absdiff_mat.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_absdiff_scalar.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_add_mat.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_add_scalar.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_add_weighted.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_bitwise_mat.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_bitwise_scalar.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_cmp_mat.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_cmp_scalar.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_copy_make_border.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_countnonzero.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_div_mat.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_div_scalar.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_integral.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_lut.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_math.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_minmax.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_minmax_mat.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_minmaxloc.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_mul_mat.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_mul_scalar.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_mul_spectrums.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_norm.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_normalize.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_polar_cart.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_reduce.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_split_merge.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_sub_mat.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_sub_scalar.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_sum.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_threshold.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudaarithm/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_transpose.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake

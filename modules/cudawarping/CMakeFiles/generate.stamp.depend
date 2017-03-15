@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+E:/opencv/opencv/sources/modules/cudawarping/CMakeLists.txt
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudawarping/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_pyr_down.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudawarping/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_pyr_up.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudawarping/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_remap.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudawarping/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_resize.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudawarping/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_warp.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake

@@ -1,0 +1,26 @@
+# CMake generation dependency list for this directory.
+E:/opencv/opencv/sources/modules/cudalegacy/CMakeLists.txt
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_NCV.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_NCVBroxOpticalFlow.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_NCVHaarObjectDetection.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_NCVPyramid.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_NPP_staging.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_bm.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_bm_fast.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_calib3d.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_ccomponetns.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_fgd.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_gmg.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudalegacy/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_needle_map.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake

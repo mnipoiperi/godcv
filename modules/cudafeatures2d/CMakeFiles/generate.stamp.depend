@@ -1,0 +1,12 @@
+# CMake generation dependency list for this directory.
+E:/opencv/opencv/sources/modules/cudafeatures2d/CMakeLists.txt
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudafeatures2d/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_bf_knnmatch.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudafeatures2d/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_bf_match.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudafeatures2d/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_bf_radius_match.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudafeatures2d/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_fast.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
+E:/opencv/VS opencv3.0 project_vs2015/modules/cudafeatures2d/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_orb.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake

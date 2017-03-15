@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+E:/opencv/opencv/sources/modules/stitching/CMakeLists.txt
+E:/opencv/VS opencv3.0 project_vs2015/modules/stitching/CMakeFiles/cuda_compile.dir/src/cuda/cuda_compile_generated_build_warp_maps.cu.obj.depend
+E:/opencv/opencv/sources/cmake/FindCUDA/run_nvcc.cmake
